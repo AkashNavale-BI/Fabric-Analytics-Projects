@@ -10,3 +10,27 @@
 *.log
 .DS_Store
 Thumbs.db
+
+# Operating system files
+Desktop.ini
+._*
+
+# Power BI temporary and backup files
+*.bak
+*.tmp
+
+# Local configuration and credentials
+.env.*
+!.env.example
+secrets.json
+credentials.json
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and editor files
+.vscode/
+.idea/
