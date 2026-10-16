@@ -31,10 +31,19 @@ This project demonstrates an end-to-end banking analytics solution built using S
 A scheduled pipeline execution has been configured in Microsoft Fabric. It runs the dataflow and, upon successful completion, triggers the semantic model refresh.
 
 ## Repository Structure
-- `data/` — Source CSV files
-- `reports/` — Power BI report (`.pbix`)
-- `docs/` — PDF documentation and supporting screenshots
-- `README.md` — Project-specific documentation
+End-to-End-Banking-Analytics/
+├── README.md
+├── .gitignore
+├── DimAccount.csv
+├── DimBranch.csv
+├── DimCustomer.csv
+├── DimDate.csv
+├── FactTransaction.csv
+├── Banking_Insights.pbix
+└── Banking_Insights.pdf
+
+<img width="3075" height="1763" alt="customer-insights" src="https://github.com/user-attachments/assets/bf34a310-feba-43bd-8a53-c0852b770a75" />
+<img width="3075" height="1763" alt="executive-overview" src="https://github.com/user-attachments/assets/ec0a787e-bc47-4f05-861c-4b86e1116606" />
 
 ## Key Learning Outcomes
 - Importing and validating flat files in SQL Server.
