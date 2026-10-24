@@ -48,11 +48,10 @@ End-to-End-Banking-Analytics/
 ## Dashboard Preview
 
 ### Executive Overview
-<img width="3075" height="1763" alt="executive-overview" src="https://github.com/user-attachments/assets/ec0a787e-bc47-4f05-861c-4b86e1116606" />
+<img width="2852" height="2500" alt="Executive_Overview" src="https://github.com/user-attachments/assets/d88a0994-a83f-4dff-a3fc-95cf14a19d8d" />
 
 ### Customer Insights
-<img width="3075" height="1763" alt="customer-insights" src="https://github.com/user-attachments/assets/bf34a310-feba-43bd-8a53-c0852b770a75" />
-
+<img width="2855" height="2499" alt="Customer_Insights" src="https://github.com/user-attachments/assets/8996a7b4-969c-4caa-bf34-5d614a66e3d6" />
 
 ## Key Learning Outcomes
 - Importing and validating flat files in SQL Server.
